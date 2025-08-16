@@ -20,4 +20,4 @@ Products
 Date 
 Deliveries 
 ### This is how the star schema looks:
-<img width="1300" height="773" alt="Model" src="https://github.com/user-attachments/assets/7fc798dc-8664-429d-b8a3-aa998a2b4061" />
+<img width="1289" height="784" alt="Model" src="https://github.com/user-attachments/assets/2b0bf627-4560-41cc-b8a9-93e9e163de3c" />
