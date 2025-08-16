@@ -14,8 +14,9 @@ This case study simulates real-world e-commerce logistics operations using three
 
 ### 2.Data Modeling
 *Fact Table*: Orders
+
 *Dimension Tables*: 
 Products 
 Date 
 Deliveries 
-This is how the star schema looks:
+### This is how the star schema looks:
