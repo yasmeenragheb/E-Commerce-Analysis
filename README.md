@@ -34,6 +34,45 @@ Deliveries
 
 ### 2. Late/on-time Orders:
 <img width="1396" height="783" alt="Orders" src="https://github.com/user-attachments/assets/0ccdf3c4-a088-4446-b84f-db0bfa712599" />
+______________________________________________________________________________________________________________________________________________________
+
+### Insights:
+
+
+* Delayed Orders Remain a Major Challenge
+   * Nearly half of all confirmed orders are being delivered late, making this the most critical issue impacting customer satisfaction and brand trust.
+
+
+* Order Volume Peaks in May
+  * The number of orders reaches its highest point in May, indicating a seasonal demand spike that may be contributing to delivery delays.
+
+
+* Performance by Delivery Partner
+ * DHL stands out as the most reliable logistics partner
+    * Bosta, on the other hand, shows the poorest performance with a high rate of delays, making it a potential risk to operational efficiency.
+
+
+* Timing Pressure on Delivery Teams
+  * Data shows that delivery delays often cluster during specific periods of the month, suggesting that teams may be overwhelmed or understaffed at peak times.
+
+
+* Impact of Payment Methods
+  * Orders paid via Cash on Delivery experience more delays compared to other payment methods. Encouraging alternative payment options may help improve delivery speed.
+
+
+* Product-Level Delay Insight
+   * Smartwatches are the most frequently delayed product, possibly due to packaging, security, or courier handling challenges. 
+
+
+* Operational KPIs Overview
+ - Order Confirmation Rate: 95% — indicates strong customer engagement and smooth ordering process
+ - Shipping Rate: 97% — reflects good internal processing efficiency
+ - Delivery Rate: 92% — overall solid, but with room for improvement in the final    delivery stage
+
+
+
+
+
 
 
 
