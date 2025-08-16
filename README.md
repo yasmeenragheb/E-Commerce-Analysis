@@ -12,7 +12,7 @@ This case study simulates real-world e-commerce logistics operations using three
     * Add a Status Column to classify each order as either "Late" or "On Time" based on the actual delivery date compared to the expected delivery date.
 
 
-### 2.Data Modeling
+### 2. Data Modeling
 *Fact Table*: Orders
 
 *Dimension Tables*: 
