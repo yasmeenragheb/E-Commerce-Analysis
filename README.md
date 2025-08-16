@@ -65,9 +65,9 @@ ________________________________________________________________________________
 
 
 * Operational KPIs Overview
- - Order Confirmation Rate: 95% — indicates strong customer engagement and smooth ordering process
- - Shipping Rate: 97% — reflects good internal processing efficiency
- - Delivery Rate: 92% — overall solid, but with room for improvement in the final    delivery stage
+  - Order Confirmation Rate: 95% — indicates strong customer engagement and smooth ordering process
+  - Shipping Rate: 97% — reflects good internal processing efficiency
+  - Delivery Rate: 92% — overall solid, but with room for improvement in the final    delivery stage
 
 
 
