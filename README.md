@@ -21,3 +21,20 @@ Date
 Deliveries 
 ### This is how the star schema looks:
 <img width="1289" height="784" alt="Model" src="https://github.com/user-attachments/assets/2b0bf627-4560-41cc-b8a9-93e9e163de3c" />
+
+### 3. Power BI
+### Create some measures like:
+ Order Confirmation, Rate Ship, Rate Delivery Rate, Delivery On Time%, Average Delivery Delay (days), Late Orders, and so on.. 
+
+
+### Create a  report of two pages
+
+### 1. Overview:
+<img width="1399" height="779" alt="Overview" src="https://github.com/user-attachments/assets/3f8d509a-9fc4-4791-a406-0bef395901b3" />
+
+### 2. Late/on-time Orders:
+<img width="1396" height="783" alt="Orders" src="https://github.com/user-attachments/assets/0ccdf3c4-a088-4446-b84f-db0bfa712599" />
+
+
+
+
