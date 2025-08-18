@@ -68,6 +68,31 @@ ________________________________________________________________________________
   - Order Confirmation Rate: 95% — indicates strong customer engagement and smooth ordering process
   - Shipping Rate: 97% — reflects good internal processing efficiency
   - Delivery Rate: 92% — overall solid, but with room for improvement in the final    delivery stage
+ 
+
+## After the Analysis, the top 3 pain points are:
+
+
+* High Late Delivery Rate
+  * Over 50% of deliveries are delayed, which can lead to poor customer satisfaction.
+
+
+* Inefficient Logistic Partners
+  * Some delivery companies consistently have a higher late delivery average than others.
+
+
+* Payment Method Impact on Delay
+ * Certain payment methods are correlated with a higher percentage of late deliveries, which may indicate operational bottlenecks or verification delays.
+
+
+## Recommendations:
+1. Optimize or Replace Underperforming Delivery Partners
+2. Balance Delivery Workload During Peak Periods
+3. Reduce Reliance on Cash on Delivery by offering incentives or discounts for non-COD orders
+4. Investigate Product-Specific Delay Causes by Creating priority handling tags for delay-prone products.
+5. Improve Real-Time Order Tracking and Notifications by notifying customers proactively if delays are expected.
+6. Collect feedback specifically on the delivery experience
+
 
 
 
